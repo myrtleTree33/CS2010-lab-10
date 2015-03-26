@@ -1,0 +1,17 @@
+Binary tree built:
+0
+  1
+    2
+      4
+        5
+          6
+            null
+            null
+          null
+        null
+      3
+        null
+        null
+    null
+  null
+
